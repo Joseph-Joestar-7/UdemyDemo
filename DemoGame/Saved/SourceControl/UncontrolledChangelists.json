@@ -1,0 +1,33 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/HP/Desktop/CS Playground/Unreal Projects/DemoGame/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/HP/Desktop/CS Playground/Unreal Projects/DemoGame/Content/MyContent/MyLevel.umap",
+				"C:/Users/HP/Desktop/CS Playground/Unreal Projects/DemoGame/Content/MyContent/Platform.uasset",
+				"C:/Users/HP/Desktop/CS Playground/Unreal Projects/DemoGame/Content/MyContent/EnemySphere.uasset",
+				"C:/Users/HP/Desktop/CS Playground/Unreal Projects/DemoGame/Content/MyContent/EndOfLevelDoor.uasset",
+				"C:/Users/HP/Desktop/CS Playground/Unreal Projects/DemoGame/Content/MyContent/MyCharacter.uasset",
+				"C:/Users/HP/Desktop/CS Playground/Unreal Projects/DemoGame/Content/MyContent/IMC_Default.uasset",
+				"C:/Users/HP/Desktop/CS Playground/Unreal Projects/DemoGame/Content/MyContent/MyPlayerController.uasset",
+				"C:/Users/HP/Desktop/CS Playground/Unreal Projects/DemoGame/Content/MyContent/IA_UsedObject.uasset",
+				"C:/Users/HP/Desktop/CS Playground/Unreal Projects/DemoGame/Content/MyContent/IA_PAUSE.uasset",
+				"C:/Users/HP/Desktop/CS Playground/Unreal Projects/DemoGame/Content/MyContent/IA_JUMP.uasset",
+				"C:/Users/HP/Desktop/CS Playground/Unreal Projects/DemoGame/Content/MyContent/IA_LOOK.uasset",
+				"C:/Users/HP/Desktop/CS Playground/Unreal Projects/DemoGame/Content/MyContent/IA_MOVE.uasset",
+				"C:/Users/HP/Desktop/CS Playground/Unreal Projects/DemoGame/Content/MyContent/MyGameMode.uasset",
+				"C:/Users/HP/Desktop/CS Playground/Unreal Projects/DemoGame/Content/MyContent/Orb.uasset",
+				"C:/Users/HP/Desktop/CS Playground/Unreal Projects/DemoGame/Content/MyContent/MyLevel_BuiltData.uasset",
+				"C:/Users/HP/Desktop/CS Playground/Unreal Projects/DemoGame/Content/MyContent/MyHUD.uasset",
+				"C:/Users/HP/Desktop/CS Playground/Unreal Projects/DemoGame/Content/MyContent/PauseMenu.uasset",
+				"C:/Users/HP/Desktop/CS Playground/Unreal Projects/DemoGame/Content/MyContent/GameOverMenu.uasset",
+				"C:/Users/HP/Desktop/CS Playground/Unreal Projects/DemoGame/Content/MyContent/WinScreenMenu.uasset",
+				"C:/Users/HP/Desktop/CS Playground/Unreal Projects/DemoGame/Content/StarterContent/Audio/13_-_Ramesseum_Fight_-_Serious_Sam_3_BFE_OST.uasset",
+				"C:/Users/HP/Desktop/CS Playground/Unreal Projects/DemoGame/Content/StarterContent/Audio/11_-_Museum_Basement_Fight_-_Serious_Sam_3_BFE_OST.uasset"
+			]
+		}
+	]
+}
